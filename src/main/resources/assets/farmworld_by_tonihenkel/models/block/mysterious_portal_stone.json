@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "farmworld_by_tonihenkel:block/mysterious_portal_stone_top",
+    "bottom": "farmworld_by_tonihenkel:block/mysterious_portal_stone",
+    "side": "farmworld_by_tonihenkel:block/mysterious_portal_stone",
+    "front": "farmworld_by_tonihenkel:block/mysterious_portal_stone_front"
+  }
+}

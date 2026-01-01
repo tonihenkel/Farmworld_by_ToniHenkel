@@ -1,0 +1,19 @@
+{
+  "creativetab.farmworld_by_tonihenkel": "Farmworld",
+
+  "block.farmworld_by_tonihenkel.mysterious_portal_stone": "Mysteriöser Portalstein",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_stone": "§9Ein uralter Stein mit geheimnisvoller Energie.",
+
+  "block.farmworld_by_tonihenkel.mysterious_portal_ore": "Mysteriöses Portal Erz",
+  "item.farmworld_by_tonihenkel.mysterious_portal_ore": "Mysteriöses Portal Erz",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_ore": "§9Ein seltsames Erz, das schwach violett pulsiert.",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_ore_item": "§9Ein seltsames Erz, das schwach violett pulsiert.",
+
+  "item.farmworld_by_tonihenkel.mysterious_portal_crystal": "Mysteriöser Portal Kristall",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_crystal": "§9Ein kristallisierter Splitter aus einer fremden Dimension.",
+
+  "block.farmworld_by_tonihenkel.mysterious_portal_crystal_block": "Block aus Mysteriösen Portal Kristallen",
+  "item.farmworld_by_tonihenkel.mysterious_portal_crystal_block": "Block aus Mysteriösen Portal Kristallen",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_crystal_block": "§9Kristalline Energie – kalt, fremd und mächtig.",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_crystal_block_item": "§9Kristalline Energie – kalt, fremd und mächtig."
+}

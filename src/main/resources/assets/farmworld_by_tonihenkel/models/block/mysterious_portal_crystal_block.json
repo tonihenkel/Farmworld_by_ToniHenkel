@@ -1,0 +1,79 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "textures": {
+    "base": "farmworld_by_tonihenkel:block/mysterious_portal_crystal_base",
+    "crystal": "farmworld_by_tonihenkel:block/mysterious_portal_crystal_block"
+  },
+  "elements": [
+    {
+      "name": "base_plate",
+      "from": [2, 0, 2],
+      "to": [14, 2, 14],
+      "faces": {
+        "north": { "texture": "#base" },
+        "east":  { "texture": "#base" },
+        "south": { "texture": "#base" },
+        "west":  { "texture": "#base" },
+        "up":    { "texture": "#base" },
+        "down":  { "texture": "#base" }
+      }
+    },
+    {
+      "name": "crystal_big",
+      "from": [3, 2, 3],
+      "to":   [7, 14, 7],
+      "rotation": { "origin": [5, 2, 5], "axis": "y", "angle": 22.5, "rescale": true },
+      "faces": {
+        "north": { "texture": "#crystal" },
+        "east":  { "texture": "#crystal" },
+        "south": { "texture": "#crystal" },
+        "west":  { "texture": "#crystal" },
+        "up":    { "texture": "#crystal" },
+        "down":  { "texture": "#crystal" }
+      }
+    },
+    {
+      "name": "crystal_mid",
+      "from": [9, 2, 4],
+      "to":   [12, 11, 7],
+      "rotation": { "origin": [10.5, 2, 5.5], "axis": "y", "angle": -22.5, "rescale": true },
+      "faces": {
+        "north": { "texture": "#crystal" },
+        "east":  { "texture": "#crystal" },
+        "south": { "texture": "#crystal" },
+        "west":  { "texture": "#crystal" },
+        "up":    { "texture": "#crystal" },
+        "down":  { "texture": "#crystal" }
+      }
+    },
+    {
+      "name": "crystal_tall",
+      "from": [6, 2, 9],
+      "to":   [9, 13, 12],
+      "rotation": { "origin": [7.5, 2, 10.5], "axis": "x", "angle": -22.5, "rescale": true },
+      "faces": {
+        "north": { "texture": "#crystal" },
+        "east":  { "texture": "#crystal" },
+        "south": { "texture": "#crystal" },
+        "west":  { "texture": "#crystal" },
+        "up":    { "texture": "#crystal" },
+        "down":  { "texture": "#crystal" }
+      }
+    },
+    {
+      "name": "crystal_small",
+      "from": [11, 2, 10],
+      "to":   [13, 8, 12],
+      "rotation": { "origin": [12, 2, 11], "axis": "x", "angle": 22.5, "rescale": true },
+      "faces": {
+        "north": { "texture": "#crystal" },
+        "east":  { "texture": "#crystal" },
+        "south": { "texture": "#crystal" },
+        "west":  { "texture": "#crystal" },
+        "up":    { "texture": "#crystal" },
+        "down":  { "texture": "#crystal" }
+      }
+    }
+  ]
+}

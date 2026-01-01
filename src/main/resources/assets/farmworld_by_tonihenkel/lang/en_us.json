@@ -1,0 +1,19 @@
+{
+  "creativetab.farmworld_by_tonihenkel": "Farmworld",
+
+  "block.farmworld_by_tonihenkel.mysterious_portal_stone": "Mysterious Portal Stone",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_stone": "§9An ancient stone filled with mysterious energy.",
+
+  "block.farmworld_by_tonihenkel.mysterious_portal_ore": "Mysterious Portal Ore",
+  "item.farmworld_by_tonihenkel.mysterious_portal_ore": "Mysterious Portal Ore",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_ore": "§9A strange ore faintly pulsing with violet energy.",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_ore_item": "§9A strange ore faintly pulsing with violet energy.",
+
+  "item.farmworld_by_tonihenkel.mysterious_portal_crystal": "Mysterious Portal Crystal",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_crystal": "§9A crystallized shard from a foreign dimension.",
+
+  "block.farmworld_by_tonihenkel.mysterious_portal_crystal_block": "Block of Mysterious Portal Crystals",
+  "item.farmworld_by_tonihenkel.mysterious_portal_crystal_block": "Block of Mysterious Portal Crystals",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_crystal_block": "§9Crystalline energy — cold, alien and powerful.",
+  "tooltip.farmworld_by_tonihenkel.mysterious_portal_crystal_block_item": "§9Crystalline energy — cold, alien and powerful."
+}
