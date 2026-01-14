@@ -1,6 +1,7 @@
 package de.farmworld_by_tonihenkel.registry;
 
 import de.farmworld_by_tonihenkel.Main;
+import de.farmworld_by_tonihenkel.block.MysteriousPortalCrystalBlock;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -88,7 +89,7 @@ public final class ModBlocks {
     // =========================================================
     public static final RegistryObject<Block> MYSTERIOUS_PORTAL_CRYSTAL_BLOCK =
             BLOCKS.register("mysterious_portal_crystal_block", () ->
-                    new Block(BlockBehaviour.Properties.of()
+                    new MysteriousPortalCrystalBlock(BlockBehaviour.Properties.of()
                             .strength(1.5f, 3.0f)
                             .sound(SoundType.AMETHYST)
                             .requiresCorrectToolForDrops()
