@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "farmworld_by_tonihenkel:mysterious_portal_ore"
   },
-  "result": "farmworld_by_tonihenkel:mysterious_portal_crystal_block",
+  "result": "farmworld_by_tonihenkel:mysterious_portal_crystal",
   "experience": 0.7,
   "cookingtime": 200
 }
